@@ -1,0 +1,35 @@
+h1{
+	color: black;
+	text-align: center;
+	font-size: 70px;
+}
+img{
+	display: flex;
+	margin-bottom: 20px;
+}
+h4{
+	font-size: 20px;color: green;
+}
+
+b{
+	font-size:20px; color:blue;
+}
+p{
+	font-size: 20px;color: green}
+em{
+	color: gray;font-size: 20px;}
+h5{
+	font-size: 20px;color: purple}
+li{
+	color: purple;font-size: 20px;}
+h6{
+	font-size: 20px;color: green;margin-bottom: 30px;margin-top: 30px;}
+label{color: blue}
+h2{
+	color: purple;
+	text-align: center;
+	font-size: 30px;
+	border: dashed;
+}
+h3{font-size: 40px;color: red;
+	text-align: center;}
